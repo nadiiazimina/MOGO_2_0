@@ -1,2 +1,2 @@
-# MOGO_2_0
+# Mogo_2.0
 Created with CodeSandbox
